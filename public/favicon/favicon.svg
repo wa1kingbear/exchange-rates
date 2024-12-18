@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="1000" height="1000"><style>
+    #light-icon {
+      display: inline;
+    }
+    #dark-icon {
+      display: none;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      #light-icon {
+        display: none;
+      }
+      #dark-icon {
+        display: inline;
+      }
+    }
+  </style><g id="light-icon"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="1000" height="1000"><g><g transform="matrix(1.25,0,0,1.25,0,0)"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="800" height="800"><svg width="800" height="800" viewBox="0 0 800 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M399.999 733.333C584.094 733.333 733.333 584.095 733.333 400C733.333 215.905 584.094 66.6665 399.999 66.6665C215.904 66.6665 66.666 215.905 66.666 400C66.666 584.095 215.904 733.333 399.999 733.333Z" stroke="#1C274C" stroke-width="50"></path>
+<path d="M400 566.667V583.333V600" stroke="#1C274C" stroke-width="50" stroke-linecap="round"></path>
+<path d="M400 200V216.667V233.333" stroke="#1C274C" stroke-width="50" stroke-linecap="round"></path>
+<path d="M500 316.667C500 270.643 455.23 233.333 400 233.333C344.77 233.333 300 270.643 300 316.667C300 362.69 344.77 400 400 400C455.23 400 500 437.31 500 483.333C500 529.357 455.23 566.667 400 566.667C344.77 566.667 300 529.357 300 483.333" stroke="#1C274C" stroke-width="50" stroke-linecap="round"></path>
+</svg></svg></g></g></svg></g><g id="dark-icon"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="1000" height="1000"><g clip-path="url(#SvgjsClipPath1022)"><rect width="1000" height="1000" fill="#ffffff"></rect><g transform="matrix(1.125,0,0,1.125,50,50)"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="800" height="800"><svg width="800" height="800" viewBox="0 0 800 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M399.999 733.333C584.094 733.333 733.333 584.095 733.333 400C733.333 215.905 584.094 66.6665 399.999 66.6665C215.904 66.6665 66.666 215.905 66.666 400C66.666 584.095 215.904 733.333 399.999 733.333Z" stroke="#1C274C" stroke-width="50"></path>
+<path d="M400 566.667V583.333V600" stroke="#1C274C" stroke-width="50" stroke-linecap="round"></path>
+<path d="M400 200V216.667V233.333" stroke="#1C274C" stroke-width="50" stroke-linecap="round"></path>
+<path d="M500 316.667C500 270.643 455.23 233.333 400 233.333C344.77 233.333 300 270.643 300 316.667C300 362.69 344.77 400 400 400C455.23 400 500 437.31 500 483.333C500 529.357 455.23 566.667 400 566.667C344.77 566.667 300 529.357 300 483.333" stroke="#1C274C" stroke-width="50" stroke-linecap="round"></path>
+</svg></svg></g></g><defs><clipPath id="SvgjsClipPath1022"><rect width="1000" height="1000" x="0" y="0" rx="500" ry="500"></rect></clipPath></defs></svg></g></svg>
